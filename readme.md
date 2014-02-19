@@ -10,9 +10,9 @@ It can generate secrets, generate codes, validate codes and present a QR-Code fo
 
 * [Google 2-Step Verification](https://www.google.com/landing/2step/)
 * Google Authenticator mobile app:
-** [Android app](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
-** [iPhone, iPod touch or iPad app](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8)
-** [BlackBerry app](http://m.google.com/authenticator)
+    * [Android app](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+    * [iPhone, iPod touch or iPad app](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8)
+    * [BlackBerry app](http://m.google.com/authenticator)
 
 This library is a modified version of the [PHPGangsta's class](https://github.com/PHPGangsta/GoogleAuthenticator).
 
